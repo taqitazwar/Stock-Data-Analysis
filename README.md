@@ -1,10 +1,10 @@
-# 📈 Stock Data Analytics Suite
+# Stock Data Analytics Suite
 
 A collection of Jupyter Notebooks that demonstrate how to extract, analyze, and visualize stock market data using Python — through APIs and web scraping.
 
 ---
 
-## 🔍 What You'll Learn
+## What You'll Learn
 
 - Extract real-time stock data using `yfinance`
 - Scrape historical data from websites with `BeautifulSoup`
@@ -13,7 +13,7 @@ A collection of Jupyter Notebooks that demonstrate how to extract, analyze, and 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | File / Folder                | Description                                           |
 |-----------------------------|-------------------------------------------------------|
@@ -26,16 +26,16 @@ A collection of Jupyter Notebooks that demonstrate how to extract, analyze, and 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language**: Python
-- **Libraries**: `pandas`, `matplotlib`, `yfinance`, `requests`, `BeautifulSoup`
+- **Libraries**: `pandas`, `matplotlib`, `yfinance`
 - **Environment**: Jupyter Notebook
 - **Data Sources**: Yahoo Finance
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/stock-data-analytics-suite.git
